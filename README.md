@@ -17,8 +17,8 @@
 ## Changelog
 
 ### v0.3.3 (2026-02-22)
-- **Password Protection**: Implementasi keamanan akses aplikasi dengan proteksi password yang disimpan di database.
-- **Session-based Unlocking**: Mekanisme akses satu kali per sesi untuk kenyamanan pengguna tanpa mengurangi keamanan.
+- **Password Protection**: Implementasi keamanan akses aplikasi dengan proteksi password.
+- **Session-based Unlocking**: Mekanisme akses satu kali per sesi.
 - **Reset Documentation**: Panduan pemulihan akses melalui Supabase jika lupa password.
 
 ### v0.3.2 (2026-02-22)
